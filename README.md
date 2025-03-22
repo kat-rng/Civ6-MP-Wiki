@@ -1,2 +1,3 @@
-A collection of guides for multiplayer Civ 6
+#CIV Multiplayer Beginner Guide
+[Standard Openers](StandardOpeners.md)
 [Commerical Hub Opener](CommericalHubOpener.md)
