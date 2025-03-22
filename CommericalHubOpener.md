@@ -1,5 +1,5 @@
-## Overview
-The [Commerical Hub Opener)(CommericalHubOpener.md) is the default opener, and the most important of the [[Standard Openers]] to learn. It focuses on constructing commercial hubs and creating internal trade routes, which provide gold and food/production respectively.
+## Overview [Commerical Hub Opener](CommericalHubOpener.md)
+The [Commerical Hub Opener](CommericalHubOpener.md) is the default opener, and the most important of the [[Standard Openers]] to learn. It focuses on constructing commercial hubs and creating internal trade routes, which provide gold and food/production respectively.
 
 ## Rationale
 Districts get more expensive as more techs are researched, so by rushing currency and minimizng techs researched, the 
